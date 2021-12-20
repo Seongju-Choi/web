@@ -16,6 +16,6 @@
 			<li><input type="checkbox"><span>회원정보 고객센터</span></li>
 			<input type="submit">
 		</form>
-	</div>d
+	</div>
 </body>
 </html>
